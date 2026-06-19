@@ -227,11 +227,24 @@ elif menu=="Resume":
         st.warning("Place resume.pdf beside app.py")
 
 elif menu=="Contact":
+
     st.header("📬 Contact")
 
-    st.markdown("📧 pankaj.bharti1080@gmail.com")
-    st.markdown("📱 9135857796")
-    st.markdown("🔗 [LinkedIn](https://linkedin.com//pankaj-kumar-47256b21a)")
-    st.markdown("💻 [GitHub](https://github.com/panku1080)")
+    st.markdown("### Connect with me 👇")
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.markdown("🔵 **LinkedIn**")
+        st.link_button("Open LinkedIn Profile", "https://www.linkedin.com/in/pankaj-kumar-47256b21a")
+
+    with col2:
+        st.markdown("⚫ **GitHub**")
+        st.link_button("Open GitHub Profile", "https://github.com/panku1080")
+
+    st.markdown("---")
+
+    st.markdown("📧 **Email:** pankaj.bharti1080@gmail.com")
+    st.markdown("📱 **Phone:** 9135857796")
 
     st.success("Open to Data Analyst, Data Scientist and AI opportunities.")
