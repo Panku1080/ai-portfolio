@@ -5,7 +5,7 @@ This project showcases my skills, experience, and AI-powered applications in one
 
 🌐 Live Demo
 
-👉 https://your-streamlit-app-link.streamlit.app
+👉 https://pankaj-kumar-portfolio.streamlit.app/
 
 👨‍💻 About Me.
 💼 Core Skills:
