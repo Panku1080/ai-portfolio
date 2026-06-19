@@ -231,7 +231,7 @@ elif menu=="Contact":
 
     st.markdown("📧 pankaj.bharti1080@gmail.com")
     st.markdown("📱 9135857796")
-    st.markdown("🔗 [LinkedIn](https://linkedin.com)")
-    st.markdown("💻 [GitHub](https://github.com)")
+    st.markdown("🔗 [LinkedIn](https://linkedin.com//pankaj-kumar-47256b21a)")
+    st.markdown("💻 [GitHub](https://github.com/panku1080)")
 
     st.success("Open to Data Analyst, Data Scientist and AI opportunities.")
