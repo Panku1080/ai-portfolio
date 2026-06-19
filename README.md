@@ -14,6 +14,7 @@ This project showcases my skills, experience, and AI-powered applications in one
 
 Project Structure
 ai-portfolio/
+
 │
 ├── app.py
 ├── requirements.txt
